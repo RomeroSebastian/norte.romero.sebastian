@@ -1,4 +1,4 @@
-# Proyecto final de LPPA
+# Proyecto final de LPPA 2020
 
 Nombre del proyecto: ArtShop
 
